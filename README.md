@@ -6,7 +6,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   <a href="#Premissas">Premissas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Baby-Steps">Baby steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#License">License</a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 ##
 
-### License
+## License
 
 <div align="center">
   
