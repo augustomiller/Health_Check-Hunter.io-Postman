@@ -2,7 +2,7 @@
 Projeto de automação da API hunter.io, para verificar a saúde dos recursos rodando um conjunto de testes periódicos a cada cinco minutos de forma automatizada.
 
 <p align="center">
-  <a href="#Plano de teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Premissas">Premissas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Baby steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 <div align="center">
   
-<p>This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.</p>
-<p> Made with 🧡 by Maic Miller | with the help of Erick Valentin</p>
+<p>This project is licensed under the MIT License. See the LICENSE.md file for details.</p>
+<p> Made with 🧡 &nbsp;by Maic Miller | with the help of Erick Valentin</p>
   
 <div>
