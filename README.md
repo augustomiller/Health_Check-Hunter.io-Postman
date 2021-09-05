@@ -15,6 +15,8 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 <br>
 
+![hunterlogo](https://user-images.githubusercontent.com/990877/132140715-c9058f6d-aa91-40c1-9f22-5f24f39e281c.png)
+
 ![hunterio](https://user-images.githubusercontent.com/990877/132139561-b0200e2c-5eea-40f2-9805-1cd51b279495.png)
 
 ## Tecnologias
