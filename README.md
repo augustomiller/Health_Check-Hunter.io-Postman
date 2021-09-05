@@ -40,7 +40,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [VSCode](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
-## Baby Steps 🐣
+## Baby Steps
 
 - [ ] Estudar a documentação da API.
 - [ ] Criar o workspace no postman.
