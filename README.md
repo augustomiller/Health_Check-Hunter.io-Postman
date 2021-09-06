@@ -105,7 +105,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>leads</td>
     <td>Enviar requisição POST assincrona para criar novo Lead</td>
     <td>
-      ✓Status code 200, 201 ou 202.
+      <img src="https://img.shields.io/badge/STATUS%20CODE-200%2C%20201%2C%20202-success">
       ✓String 'Created' no status code do response.
       <img src="https://img.shields.io/badge/Tempo%20Execu%C3%A7%C3%A3o%20-%3C%202s-success">
     </td>
@@ -178,7 +178,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>leads_lists</td>
     <td>Enviar requisição POST assincrona para criar nova lista de Lead</td>
     <td>
-      ✓Status code: 200, 201 ou 202.
+      <img src="https://img.shields.io/badge/STATUS%20CODE-200%2C%20201%2C%20202-success">
       ✓String 'Created' no status code do response.
       ✓Tempo de execução < 2 seg.
     </td>
