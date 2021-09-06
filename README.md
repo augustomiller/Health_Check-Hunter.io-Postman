@@ -241,7 +241,9 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [x] Criar os Scripts de Pré-Requests.
 <a href="https://user-images.githubusercontent.com/990877/132260029-62c8dcad-0f92-4ff1-afef-39672e3f375d.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 
-- [ ] Criar os testes.
+- [x] Criar os testes no Postman.
+<a href="https://user-images.githubusercontent.com/990877/132261275-80eb7dab-8792-42a6-ab59-94f3f361f3f9.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
+
 - [ ] Criar e executar com Monitor (um Monitor para cada Environment).
 - [ ] Exportar resultados das execuções.
 - [ ] Exportar coleção e ambiente.
@@ -259,6 +261,6 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   <a href="https://mit-license.org/">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   </a> file for details.</p>
-<p> Made with 🧡 &nbsp;by Maic Miller | with the help of Erick Valentin</p>
+<p> Made with&nbsp;🧡 &nbsp;by Maic Miller | with the help of Erick Valentin</p>
   
 <div>
