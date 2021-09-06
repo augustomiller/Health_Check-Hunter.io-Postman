@@ -230,7 +230,9 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [x] Parametrizar as variáveis.
 <a href="https://user-images.githubusercontent.com/990877/132256061-500cc661-1bba-4c05-b1c5-a58aece176c4.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 
-- [ ] Criar o arquivo com a massa de dados.
+- [x] Criar o arquivo com a massa de dados.
+<a href="https://user-images.githubusercontent.com/990877/132259231-28ab0e36-d194-4943-a2eb-1d2fd7657fd3.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
+
 - [ ] Parametrizar as autenticações.
 - [ ] Criar os Scripts de Pré-Requests.
 - [ ] Criar os testes.
