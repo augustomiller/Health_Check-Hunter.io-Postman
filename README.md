@@ -120,7 +120,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>leads/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar Lead</td>
     <td>
-      ✓Status code: 204.
+      <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
       ✓String 'No Content' no response code.
     </td>
   </tr>
@@ -134,7 +134,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>leads/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar lead específico</td>
     <td>
-      ✓Status code: 204.
+      <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
       ✓String 'No Content' no response code.
     </td>
   </tr>
@@ -180,7 +180,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>
       <img src="https://img.shields.io/badge/STATUS%20CODE-200%2C%20201%2C%20202-success">
       ✓String 'Created' no status code do response.
-      ✓Tempo de execução < 2 seg.
+      <img src="https://img.shields.io/badge/Tempo%20Execu%C3%A7%C3%A3o%20-%3C%202s-success">
     </td>
   </tr>
     </tr>
@@ -192,7 +192,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar lista de Lead</td>
-    <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
+    <td>
+      <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
+      ✓String 'No Content' no response code.
+    </td>
   </tr>
     </tr>
     <tr>
@@ -203,7 +206,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar uma lista de lead específica</td>
-    <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
+    <td>
+      <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
+      ✓String 'No Content' no response code.
+    </td>
   </tr>
   
 </tbody>
