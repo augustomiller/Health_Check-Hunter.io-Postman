@@ -42,7 +42,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 ### Premissas
 
-- [ ] Criar um Workspace colaborativo no Postman.
+- [x] Criar um Workspace colaborativo no Postman.
 - [ ] Deve ser executado no ambiente de desenvolvimento e ambiente de testes.
 - [ ] Todos os testes do plano de teste devem ser executados.
 - [ ] Todos os dados de reuisição precisam de body, devem ser parametrizados com valores de dados externos.
