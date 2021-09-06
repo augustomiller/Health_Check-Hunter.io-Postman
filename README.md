@@ -11,7 +11,9 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  <a href="https://mit-license.org/">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  </a>
 </p>
 
 <br>
@@ -74,7 +76,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 <div align="center">
   
-<p>This project is licensed under the MIT License. See the LICENSE.md file for details.</p>
+<p>This project is licensed under the MIT License. See the
+  <a href="https://mit-license.org/">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  </a> file for details.</p>
 <p> Made with 🧡 &nbsp;by Maic Miller | with the help of Erick Valentin</p>
   
 <div>
