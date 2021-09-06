@@ -67,7 +67,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 01</td>
     <td>Recuperar todos leads cadastrados</td>
     <td>API key</td>
-    <td>GET</td>
+    <td> <img src="https://img.shields.io/badge/%E2%87%A3-GET-green" </td>
     <td>api.hunter.io/v2</td>
     <td>leads</td>
     <td>Enviar requisição GET assíncrona para recuperar todos leads</td>
@@ -79,7 +79,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 02</td>
     <td>Recuperar lead específico</td>
     <td>API key</td>
-    <td>GET</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
     <td>api.hunter.io/v2</td>
     <td>leads/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar lead específico</td>
@@ -122,7 +122,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 06</td>
     <td>Recuperar todas listas de leads cadastradas</td>
     <td>API key</td>
-    <td>GET</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists</td>
     <td>Enviar requisição GET assíncrona para recuperar todas listas de leads</td>
@@ -133,7 +133,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 07</td>
     <td>Recuperar lista de lead específica</td>
     <td>API key</td>
-    <td>GET</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar uma lista de leads específico</td>
