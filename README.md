@@ -220,7 +220,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [x] Estudar a documentação da API.
 - [x] Criar o workspace no postman.
 - [x] Convidar membros.
-- [ ] Criar Environments e variáveis.
+- [x] Criar Environments e variáveis de ambiente (Ex:. base_url).
 - [ ] Criar a estrutura das Collections.
 - [ ] Criar as requisições.
 - [ ] Parametrizar as variáveis.
