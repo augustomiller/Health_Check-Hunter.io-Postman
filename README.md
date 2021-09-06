@@ -1,4 +1,9 @@
-# Health Check-Hunter.io
+<div text align="center">
+
+# ⛑ Health Check Hunter.io
+
+</div>
+
 Projeto de automação da API hunter.io, para verificar a saúde dos recursos rodando um conjunto de testes periódicos a cada cinco minutos de forma automatizada.
 
 <p align="center">
