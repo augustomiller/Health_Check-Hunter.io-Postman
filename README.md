@@ -20,10 +20,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 ![hunterio](https://user-images.githubusercontent.com/990877/132139561-b0200e2c-5eea-40f2-9805-1cd51b279495.png)
 
-## Documentação
-
-- [hunter.io](https://hunter.io/)
-- [hunter.doc](https://hunter.io/api-documentation/v2)
+<p align="center">
+  <a href="https://hunter.io/">hunter.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://hunter.io/api-documentation/v2">hunter.doc</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Tecnologias
 
@@ -32,10 +32,6 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [Newman](https://www.npmjs.com/package/newman)
 - [VSCode](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
-
-## Plano de teste
-
-- [ ] [Em desenvolvimento]()
 
 ### Premissas
 
@@ -47,6 +43,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [ ] Gerar documentação de testes.
 - [ ] Exportar o resultado das execuções para um arquivo .json.
 - [ ] Executar os testes do plano de testes no newman, gerando relatórios da execução.
+
+## Plano de teste
+
+- [ ] [Em desenvolvimento]()
 
 ## Baby Steps
 
