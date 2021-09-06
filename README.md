@@ -67,7 +67,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 01</td>
     <td>Recuperar todos leads cadastrados</td>
     <td>API key</td>
-    <td> <img src="https://img.shields.io/badge/%E2%87%A3-GET-green" </td>
+    <td> <img src="https://img.shields.io/badge/%E2%87%A3-GET-green"> </td>
     <td>api.hunter.io/v2</td>
     <td>leads</td>
     <td>Enviar requisição GET assíncrona para recuperar todos leads</td>
@@ -79,7 +79,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 02</td>
     <td>Recuperar lead específico</td>
     <td>API key</td>
-    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td>api.hunter.io/v2</td>
     <td>leads/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar lead específico</td>
@@ -89,7 +89,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 03</td>
     <td>Criar novo lead</td>
     <td>API key</td>
-    <td>POST</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
     <td>api.hunter.io/v2</td>
     <td>leads</td>
     <td>Enviar requisição POST assincrona para criar novo Lead</td>
@@ -100,7 +100,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 04</td>
     <td>Editar lead</td>
     <td>API key</td>
-    <td>PUT</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
     <td>api.hunter.io/v2</td>
     <td>leads/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar Lead</td>
@@ -111,7 +111,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 05</td>
     <td>Excluir lead</td>
     <td>API key</td>
-    <td>DELETE</td>
+    <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
     <td>api.hunter.io/v2</td>
     <td>leads/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar lead específico</td>
@@ -122,7 +122,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 06</td>
     <td>Recuperar todas listas de leads cadastradas</td>
     <td>API key</td>
-    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists</td>
     <td>Enviar requisição GET assíncrona para recuperar todas listas de leads</td>
@@ -133,7 +133,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 07</td>
     <td>Recuperar lista de lead específica</td>
     <td>API key</td>
-    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar uma lista de leads específico</td>
@@ -141,10 +141,10 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   </tr>
     </tr>
     <tr>
-    <tdTC 08</td>
+    <td>TC 08</td>
     <td>Criar nova lista de lead</td>
     <td>API key</td>
-    <td>POST</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists</td>
     <td>Enviar requisição POST assincrona para criar nova lista de Lead</td>
@@ -155,7 +155,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 09</td>
     <td>Editar lista de lead</td>
     <td>API key</td>
-    <td>PUT</td>
+    <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar lista de Lead</td>
@@ -166,7 +166,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>TC 10</td>
     <td>Excluir lista de lead</td>
     <td>API key</td>
-    <td>DELETE</td>
+    <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
     <td>api.hunter.io/v2</td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar uma lista de lead específica</td>
