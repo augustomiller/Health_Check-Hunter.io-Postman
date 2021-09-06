@@ -68,7 +68,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Recuperar todos leads cadastrados</td>
     <td>API key</td>
     <td> <img src="https://img.shields.io/badge/%E2%87%A3-GET-green"> </td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads</td>
     <td>Enviar requisição GET assíncrona para recuperar todos leads</td>
     <td>
@@ -80,7 +80,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Recuperar lead específico</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar lead específico</td>
     <td>✓Status code: 200. ✓String 'OK' no response code. ✓Tempo de execução < 2 seg.</td>
@@ -90,7 +90,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Criar novo lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads</td>
     <td>Enviar requisição POST assincrona para criar novo Lead</td>
     <td>✓Status code 200, 201 ou 202. ✓String 'Created' no status code do response. ✓Tempo de execução < 2 seg.</td>
@@ -101,7 +101,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Editar lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar Lead</td>
     <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
@@ -112,7 +112,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Excluir lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar lead específico</td>
     <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
@@ -123,7 +123,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Recuperar todas listas de leads cadastradas</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists</td>
     <td>Enviar requisição GET assíncrona para recuperar todas listas de leads</td>
     <td>✓Status code: 200. ✓String 'OK' no status code do response. ✓Tempo de execução < 2 seg.</td>
@@ -134,7 +134,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Recuperar lista de lead específica</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição GET assíncrona para recuperar uma lista de leads específico</td>
     <td>✓Status code: 200. ✓String 'OK' no response code. ✓Tempo de execução < 2 seg.</td>
@@ -145,7 +145,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Criar nova lista de lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists</td>
     <td>Enviar requisição POST assincrona para criar nova lista de Lead</td>
     <td>✓Status code: 200, 201 ou 202. ✓String 'Created' no status code do response. ✓Tempo de execução < 2 seg.</td>
@@ -156,7 +156,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Editar lista de lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição PUT assincrona para alterar lista de Lead</td>
     <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
@@ -167,7 +167,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Excluir lista de lead</td>
     <td>API key</td>
     <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
-    <td>api.hunter.io/v2</td>
+    <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
     <td>Enviar requisição DELETE assincrona para deletar uma lista de lead específica</td>
     <td>✓Status code: 204. ✓String 'No Content' no response code.</td>
