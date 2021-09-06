@@ -77,7 +77,9 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>leads</td>
     <td>Enviar requisição GET assíncrona para recuperar todos leads</td>
     <td>
-      ✓Status code:200. ✓Stringo 'OK' no status code so response. ✓Tempo de execução < 2s.
+      <img src="https://img.shields.io/badge/STATUS%20CODE-200-success">
+      <img src="https://img.shields.io/badge/String%20'OK'%20-response-success">
+      <img src="https://img.shields.io/badge/Tempo%20Execu%C3%A7%C3%A3o%20-%3C%202s-success">
     </td>
   </tr>
   <tr>
