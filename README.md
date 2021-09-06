@@ -236,7 +236,9 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [x] Parametrizar as autenticações.
 <a href="https://user-images.githubusercontent.com/990877/132256061-500cc661-1bba-4c05-b1c5-a58aece176c4.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 
-- [ ] Criar os Scripts de Pré-Requests.
+- [x] Criar os Scripts de Pré-Requests.
+<a href="https://user-images.githubusercontent.com/990877/132260029-62c8dcad-0f92-4ff1-afef-39672e3f375d.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
+
 - [ ] Criar os testes.
 - [ ] Criar e executar com Monitor (um Monitor para cada Environment).
 - [ ] Exportar resultados das execuções.
