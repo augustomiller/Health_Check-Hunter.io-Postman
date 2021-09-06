@@ -217,7 +217,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 ## Baby Steps
 
-- [ ] Estudar a documentação da API.
+- [x] Estudar a documentação da API.
 - [ ] Criar o workspace no postman.
 - [ ] Convidar membros.
 - [ ] Criar Environments e variáveis.
