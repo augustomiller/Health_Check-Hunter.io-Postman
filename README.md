@@ -121,7 +121,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Enviar requisição PUT assincrona para alterar Lead</td>
     <td>
       <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
-      ✓String 'No Content' no response code.
+      <img src="https://img.shields.io/badge/String%20'No%20Content'-response-success">
     </td>
   </tr>
     </tr>
@@ -135,7 +135,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Enviar requisição DELETE assincrona para deletar lead específico</td>
     <td>
       <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
-      ✓String 'No Content' no response code.
+      <img src="https://img.shields.io/badge/String%20'No%20Content'-response-success">
     </td>
   </tr>
     </tr>
@@ -194,7 +194,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Enviar requisição PUT assincrona para alterar lista de Lead</td>
     <td>
       <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
-      ✓String 'No Content' no response code.
+      <img src="https://img.shields.io/badge/String%20'No%20Content'-response-success">
     </td>
   </tr>
     </tr>
@@ -208,7 +208,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <td>Enviar requisição DELETE assincrona para deletar uma lista de lead específica</td>
     <td>
       <img src="https://img.shields.io/badge/STATUS%20CODE-204-success">
-      ✓String 'No Content' no response code.
+      <img src="https://img.shields.io/badge/String%20'No%20Content'-response-success">
     </td>
   </tr>
   
