@@ -66,7 +66,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   <tr>
     <td>TC 01</td>
     <td>Recuperar todos leads cadastrados</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td> <img src="https://img.shields.io/badge/%E2%87%A3-GET-green"> </td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads</td>
@@ -78,7 +78,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   <tr>
     <td>TC 02</td>
     <td>Recuperar lead específico</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
@@ -88,7 +88,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 03</td>
     <td>Criar novo lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads</td>
@@ -99,7 +99,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 04</td>
     <td>Editar lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
@@ -110,7 +110,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 05</td>
     <td>Excluir lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads/{id}</td>
@@ -121,7 +121,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 06</td>
     <td>Recuperar todas listas de leads cadastradas</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists</td>
@@ -132,7 +132,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 07</td>
     <td>Recuperar lista de lead específica</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A3-GET-green"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
@@ -143,7 +143,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 08</td>
     <td>Criar nova lista de lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-POST-yellow"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists</td>
@@ -154,7 +154,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 09</td>
     <td>Editar lista de lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%87%A1-PUT-blue"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
@@ -165,7 +165,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
     <tr>
     <td>TC 10</td>
     <td>Excluir lista de lead</td>
-    <td>API key</td>
+    <td><img src="https://img.shields.io/badge/API-Key-lightgrey"></td>
     <td><img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8E-DEL-red"></td>
     <td><a href="https://hunter.io/api-documentation/v2"><img src="https://img.shields.io/badge/%F0%9F%A6%8A-URL-9cf"></a></td>
     <td>leads_lists/{id}</td>
