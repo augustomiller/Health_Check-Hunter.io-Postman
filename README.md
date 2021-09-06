@@ -221,6 +221,8 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [x] Criar o workspace no postman.
 - [x] Convidar membros.
 - [x] Criar Environments e variáveis de ambiente (ex: base_url).
+<a href="https://user-images.githubusercontent.com/990877/132260121-7f2d0e6b-8c12-45f1-9610-d2d69c52b77f.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
+
 - [x] Criar a estrutura das Collections.
 <a href="https://user-images.githubusercontent.com/990877/132251798-69de8aba-4a2d-4b07-a600-704f9f87144e.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 
