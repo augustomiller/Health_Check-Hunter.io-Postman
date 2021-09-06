@@ -2,9 +2,10 @@
 Projeto de automação da API hunter.io, para verificar a saúde dos recursos rodando um conjunto de testes periódicos a cada cinco minutos de forma automatizada.
 
 <p align="center">
-  <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Premissas">Premissas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Baby-Steps">Baby steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
@@ -18,6 +19,11 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 ![hunterlogo](https://user-images.githubusercontent.com/990877/132140715-c9058f6d-aa91-40c1-9f22-5f24f39e281c.png)
 
 ![hunterio](https://user-images.githubusercontent.com/990877/132139561-b0200e2c-5eea-40f2-9805-1cd51b279495.png)
+
+## Documentação
+
+- [hunter.io](https://hunter.io/)
+- [hunter.doc](https://hunter.io/api-documentation/v2)
 
 ## Tecnologias
 
