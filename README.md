@@ -12,6 +12,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Baby-Steps">Baby steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Relatórios">Relatórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
 
