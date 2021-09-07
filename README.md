@@ -268,7 +268,13 @@ newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests
 
 ## Relatórios
 
+![Screen Shot 2021-09-06 at 23 06 11](https://user-images.githubusercontent.com/990877/132273439-af4be965-9f26-4626-ab45-61b61542456e.png)
 
+![Screen Shot 2021-09-06 at 23 00 28](https://user-images.githubusercontent.com/990877/132273653-26f5940c-8b82-470b-8974-d0da685d8084.png)
+
+![Screen Shot 2021-09-06 at 23 00 02](https://user-images.githubusercontent.com/990877/132273684-3774adec-7b3a-4404-be83-7100da2b608d.png)
+
+![Screen Shot 2021-09-06 at 23 00 15](https://user-images.githubusercontent.com/990877/132273670-44d1e502-be6d-44a7-9f5e-e281b2b75129.png)
 
 ##
 
