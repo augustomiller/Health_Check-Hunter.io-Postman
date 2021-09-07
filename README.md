@@ -43,13 +43,13 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 ### Premissas
 
 - [x] Criar um Workspace colaborativo no Postman.
-- [ ] Deve ser executado no ambiente de desenvolvimento e ambiente de testes.
-- [ ] Todos os testes do plano de teste devem ser executados.
-- [ ] Todos os dados de reuisição precisam de body, devem ser parametrizados com valores de dados externos.
-- [ ] Executar no mínimo de cinco iterações.
-- [ ] Gerar documentação de testes.
-- [ ] Exportar o resultado das execuções para um arquivo .json.
-- [ ] Executar os testes do plano de testes no newman, gerando relatórios da execução.
+- [x] Deve ser executado no ambiente de desenvolvimento e ambiente de testes.
+- [x] Todos os testes do plano de teste devem ser executados.
+- [x] Todos os dados de reuisição precisam de body, devem ser parametrizados com valores de dados externos.
+- [x] Executar no mínimo de cinco iterações.
+- [x] Gerar documentação de testes.
+- [x] Exportar o resultado das execuções para um arquivo .json.
+- [x] Executar os testes do plano de testes no newman, gerando relatórios da execução.
 
 ## Plano de teste
 - [x] [criar plano de teste.]()
@@ -268,8 +268,12 @@ newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests
 
 ## Relatórios
 
+<div align="center">
+
 ![Screen Shot 2021-09-06 at 23 06 11](https://user-images.githubusercontent.com/990877/132273439-af4be965-9f26-4626-ab45-61b61542456e.png)
 
+</div>
+  
 ![Screen Shot 2021-09-06 at 23 00 28](https://user-images.githubusercontent.com/990877/132273653-26f5940c-8b82-470b-8974-d0da685d8084.png)
 
 ![Screen Shot 2021-09-06 at 23 00 02](https://user-images.githubusercontent.com/990877/132273684-3774adec-7b3a-4404-be83-7100da2b608d.png)
