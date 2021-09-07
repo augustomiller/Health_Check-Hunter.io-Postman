@@ -39,6 +39,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 - [NodeJS](https://nodejs.org/en/)
 - [Newman](https://www.npmjs.com/package/newman)
 - [VSCode](https://code.visualstudio.com/)
+- [Json Path](https://jsonpathfinder.com/)
 - [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ### Premissas
