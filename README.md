@@ -247,7 +247,8 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 - [x] Criar e executar os testes via Monitor (um Monitor para cada Environment).
 <a href="https://user-images.githubusercontent.com/990877/132272283-34a891c5-d4c5-4390-9b43-57507fbf6013.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
-- [ ] Exportar resultados das execuções.
+- [x] Exportar resultados das execuções.
+<a href="https://user-images.githubusercontent.com/990877/132272524-90e468d7-2d19-4cb4-8dc8-2bf5a0d05a64.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 - [ ] Exportar coleção e ambiente.
 - [ ] Preparar ambiente: nodeJS, newman, html-reporterextra.
 - [ ] Criar a hierarquia de arquivos para o newman.
