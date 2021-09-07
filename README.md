@@ -245,7 +245,7 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 
 - [x] Criar os testes no Postman.
 <a href="https://user-images.githubusercontent.com/990877/132261275-80eb7dab-8792-42a6-ab59-94f3f361f3f9.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
-<a href="https://codebeautify.org/alleditor/cbded3c8"><img src="https://img.shields.io/badge/ex%3A%20-code-ff69b4"></a>
+<a href="https://codebeautify.org/alleditor/cb919d6a"><img src="https://img.shields.io/badge/ex%3A%20-code-ff69b4"></a>
 
 - [x] Criar e executar os testes via Monitor (um Monitor para cada Environment).
 <a href="https://user-images.githubusercontent.com/990877/132272283-34a891c5-d4c5-4390-9b43-57507fbf6013.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
