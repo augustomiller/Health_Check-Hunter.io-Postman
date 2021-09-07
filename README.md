@@ -257,11 +257,18 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 ```script
 newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests.postman_environment.json
 ```
+![Screen Shot 2021-09-06 at 23 06 32](https://user-images.githubusercontent.com/990877/132273305-2cd41c71-e3a7-4b8c-9fcf-cbb25f2b1d04.png)
+
 - [x] Gerar relatório Html.
 
 ```script
 ➜ newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests.postman_environment.json --reporter-htmlextra-title "Relatorio Postman" -r htmlextra
 ```
+![Screen Shot 2021-09-06 at 23 06 52](https://user-images.githubusercontent.com/990877/132273335-06ac518e-dcca-47a7-a62e-293c326daa99.png)
+
+## Relatórios
+
+
 
 ##
 
