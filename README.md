@@ -249,10 +249,19 @@ Projeto de automação da API hunter.io, para verificar a saúde dos recursos ro
 <a href="https://user-images.githubusercontent.com/990877/132272283-34a891c5-d4c5-4390-9b43-57507fbf6013.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
 - [x] Exportar resultados das execuções.
 <a href="https://user-images.githubusercontent.com/990877/132272524-90e468d7-2d19-4cb4-8dc8-2bf5a0d05a64.png"><img src="https://img.shields.io/badge/ex%3A%20-png-9cf"></a>
-- [ ] Exportar coleção e ambiente.
-- [ ] Preparar ambiente: nodeJS, newman, html-reporterextra.
-- [ ] Criar a hierarquia de arquivos para o newman.
-- [ ] Executar via newman a coleção e o Environment exportados.
+- [x] Exportar coleção e ambiente.
+- [x] Preparar ambiente: nodeJS, newman, html-reporterextra.
+- [x] Criar a hierarquia de arquivos para o newman.
+- [x] Executar via newman a coleção e o Environment exportados.
+
+```script
+newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests.postman_environment.json
+```
+- [x] Gerar relatório Html.
+
+```script
+➜ newman run -d data/data_lead.csv Hunter.io\ API.postman_collection.json -e Tests.postman_environment.json --reporter-htmlextra-title "Relatorio Postman" -r htmlextra
+```
 
 ##
 
